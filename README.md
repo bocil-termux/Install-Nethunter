@@ -84,9 +84,9 @@ chmod +x install-nethunter-termux
 
 📝 Catatan Penting
 
-· Tools ini TIDAK memerlukan root access
-· Instalasi membutuhkan waktu 15-30 menit tergantung koneksi
-· Pastikan perangkat tidak sleep selama proses instalasi
+· Tools ini TIDAK memerlukan root access  
+· Instalasi membutuhkan waktu 15-30 menit tergantung koneksi  
+· Pastikan perangkat tidak sleep selama proses instalasi  
 · Disarankan menggunakan koneksi WiFi
 
 ⚠️ Disclaimer
