@@ -12,7 +12,7 @@ Tools ini memungkinkan Anda menginstal Kali Nethunter di perangkat Android melal
 ## 🚀 Cara Penggunaan
 
 ### Step 1: Install Termux
-Unduh Termux dari F-Droid (disarankan) atau Play Store
+Unduh Termux dari F-Droid (disarankan)
 
 ### Step 2: Jalankan Tools
 ```bash
