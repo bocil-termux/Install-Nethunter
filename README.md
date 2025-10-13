@@ -52,12 +52,12 @@ nh
 
 ⚡ Fitur yang Tersedia
 
-· ✅ Kali Linux tools\n
-· ✅ Metasploit framework\n
-· ✅ Nmap network scanner\n
-· ✅ Wireshark\n
-· ✅ SQLMap\n
-· ✅ Hydra\n
+· ✅ Kali Linux tools  
+· ✅ Metasploit framework  
+· ✅ Nmap network scanner\n  
+· ✅ Wireshark\n  
+· ✅ SQLMap\n  
+· ✅ Hydra\n  
 · ✅ Dan berbagai tools penetration testing lainnya
 
 🛠️ Troubleshooting
