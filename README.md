@@ -54,10 +54,10 @@ nh
 
 · ✅ Kali Linux tools  
 · ✅ Metasploit framework  
-· ✅ Nmap network scanner\n  
-· ✅ Wireshark\n  
-· ✅ SQLMap\n  
-· ✅ Hydra\n  
+· ✅ Nmap network scanner  
+· ✅ Wireshark  
+· ✅ SQLMap  
+· ✅ Hydra  
 · ✅ Dan berbagai tools penetration testing lainnya
 
 🛠️ Troubleshooting
