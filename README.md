@@ -26,7 +26,7 @@ chmod +x install-nethunter-termux
 ./install-nethunter-termux
 ```
 
-Step 3: Proses Instalasi
+### Step 3: Proses Instalasi
 
 Script akan secara otomatis:
 
@@ -36,7 +36,7 @@ Script akan secara otomatis:
 4. Mengkonfigurasi environment
 5. Menyiapkan filesystem
 
-Step 4: Menjalankan Nethunter
+### Step 4: Menjalankan Nethunter
 
 Setelah instalasi selesai, jalankan:
 
