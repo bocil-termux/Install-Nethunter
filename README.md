@@ -63,7 +63,7 @@ nh
 Jalankan  
 ```
 sudo apt update && sudo apt full-upgrade -y
-'''.  
+``` 
 langsung setelah instalasi untuk memperbarui Kali.
 Jika Anda memiliki cukup ruang penyimpanan, Anda mungkin ingin menjalankannya
 ```
