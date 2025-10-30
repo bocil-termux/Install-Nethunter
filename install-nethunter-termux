@@ -379,6 +379,11 @@ function fix_uid() {
     nh -r groupmod -g $GRPID kali 2>/dev/null
 }
 
+function install_eyefox() {
+    wget -O ${PREFIX}/bin/EyeFox https://raw.githubusercontent.com/eye-fox/repo/refs/heads/main/file/kali_desktop.sh >/dev/null 2>&1
+    chmod +x ${PREFIX}/bin/EyeFox
+}
+
 function print_banner() {
     clear
     printf "${blue}##################################################\n"
@@ -434,6 +439,7 @@ fix_resolv_conf
 fix_sudo
 create_kex_launcher
 fix_uid
+install_eyefox
 
 print_banner
 printf "${green}[=] Kali NetHunter for Termux installed successfully${reset}\n\n"
