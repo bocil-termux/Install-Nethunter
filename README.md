@@ -17,7 +17,7 @@ Unduh Termux dari F-Droid (disarankan)
 ### Step 2: Jalankan Tools
 ```bash
 # Download script
-wget https://raw.githubusercontent.com/bocil-termux/Install-Nethunter/main/install-nethunter-termux
+wget https://raw.githubusercontent.com/eye-fox/Install-Nethunter/main/install-nethunter-termux
 
 # Berikan izin eksekusi
 chmod +x install-nethunter-termux
